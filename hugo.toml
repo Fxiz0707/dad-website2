@@ -21,6 +21,7 @@ canonifyURLs = true
             hardWraps = true
 
 [params]
+    mainCSS = "css/main.css"
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
     copyright = "© Builders Of The Future, Inc."
